@@ -1,0 +1,32 @@
+test/registered/unit/disaggregation/test_prefill_abort_finish_reason.py
+  s_360f0b25f6f167::t_a75b019cb648ee 24
+  s_066c479e7a181d::t_d7a707835bf078 1-8,10-23,25-41,43-145
+  s_360f0b25f6f167::t_1cd24ca1f0db45 42
+  s_360f0b25f6f167::t_735e6733024282 9
+python/sglang/srt/disaggregation/prefill.py
+  s_066c479e7a181d::t_14ae12f3d53990 871-878
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "b3963373133dd1291dbc8fd7af3b7a7830840a64",
+  "prompts": {},
+  "sessions": {
+    "s_066c479e7a181d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "fa346b2b-ef1f-4d85-81a9-00da4fc179a6",
+        "model": "unknown"
+      },
+      "human_author": "Jianliang Qi <jianliang5669@gmail.com>"
+    },
+    "s_360f0b25f6f167": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "46bfe414-e38a-42e9-a8e0-f43a37615899",
+        "model": "unknown"
+      },
+      "human_author": "Jianliang Qi <jianliang5669@gmail.com>"
+    }
+  }
+}

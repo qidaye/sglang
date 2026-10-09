@@ -1,0 +1,29 @@
+python/sglang/srt/disaggregation/ascend/conn.py
+  s_18067aeddfa396::t_64db57f44c79e2 13,19,145-194
+python/sglang/srt/disaggregation/mooncake/conn.py
+  s_18067aeddfa396::t_2f6499fc9e765a 162-167,220-225,1207-1210,2426-2433,2815-2817,3199-3204,3239-3240
+test/registered/unit/disaggregation/test_disaggregation_wire.py
+  s_18067aeddfa396::t_b71f937001ecd0 187
+test/registered/unit/disaggregation/test_mooncake_transfer_batching.py
+  s_18067aeddfa396::t_fabbbbd3603906 475
+test/registered/unit/disaggregation/test_prefill_complete_integration.py
+  s_18067aeddfa396::t_21451a3c0864ef 671-673
+test/registered/unit/npu/test_npu_kv_capability.py
+  s_18067aeddfa396::t_00c17792eda36e 4-5,8,31-33,348-488
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "46061857990d5f5be85c1520f496ec06b065bb75",
+  "prompts": {},
+  "sessions": {
+    "s_18067aeddfa396": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5fdad28d-9800-4c69-83f2-7bdc5770fc91",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "Jianliang Qi <jianliang5669@gmail.com>"
+    }
+  }
+}

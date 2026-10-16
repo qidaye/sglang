@@ -1,0 +1,19 @@
+test/registered/unit/disaggregation/test_admission_abort_not_enqueued.py
+  s_0a5f279c9bb604::t_10676b48503341 70
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "8836a9d40cd0ea921d1c69a5f96289c544f96a1f",
+  "prompts": {},
+  "sessions": {
+    "s_0a5f279c9bb604": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a8085983-326f-4005-afa4-15048dc6b380",
+        "model": "deepseek-v4.1-flash"
+      },
+      "human_author": "Jianliang Qi <jianliang5669@gmail.com>"
+    }
+  }
+}
